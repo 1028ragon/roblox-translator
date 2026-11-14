@@ -1,0 +1,5 @@
+PyAudioWPatch
+numpy
+scipy
+azure-cognitiveservices-speech
+PySide6
