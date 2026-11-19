@@ -52,3 +52,6 @@ logs/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# GitHub 이슈 교체 백업 및 실행 기록
+/.local/issue-migrations/

@@ -4,6 +4,10 @@ PC 스피커 소리 → WASAPI 루프백 캡처 → Azure 음성 인식·번역 
 
 이슈, 브랜치, 커밋, PR 작성 규칙은 [Git Convention](git%20convention.md)을 참고하세요.
 
+제품 목표, 단계별 출시 범위와 기능 요구사항은 [PRD](docs/PRD.md)를 참고하세요.
+
+GitHub에 등록할 전체 이슈 제목·본문과 선행 작업은 [이슈 등록 초안](docs/ISSUES.md)에 정리되어 있습니다.
+
 ## 프로젝트 구조
 
 ```text
